@@ -7,6 +7,7 @@ public class FirstDay {
      System.out.println("second commit");
      System.out.println("00.49 second day");
      System.out.println("01.11 second day");
+      System.out.println("01.19 second day");
      
 	}
 
