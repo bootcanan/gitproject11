@@ -8,7 +8,7 @@ public class FirstDay {
      System.out.println("00.49 second day");
      System.out.println("01.11 second day");
       System.out.println("01.19 second day");
-     
+        System.out.println("01.28 second day");
 	}
 
 }
