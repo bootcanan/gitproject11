@@ -19,6 +19,7 @@ public class FirstDay {
         System.out.println("new line on local");
         System.out.println("00:00 feature brand");
         System.out.println("00:06 feature brand");
+        System.out.println("00:13 master brand");
 
         
 
