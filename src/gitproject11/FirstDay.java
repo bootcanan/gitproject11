@@ -17,6 +17,7 @@ public class FirstDay {
         System.out.println("I do not expect conflict form this line!");
 
         System.out.println("new line on local");
+        System.out.println("00:00 feature brand");
 
 
 	}
