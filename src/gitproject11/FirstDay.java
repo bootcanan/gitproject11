@@ -21,6 +21,7 @@ public class FirstDay {
         System.out.println("00:06 feature brand");
         System.out.println("00:13 master brand");
         System.out.println("00:22 feature brand");
+        System.out.println("00:41 feature brand");
 
 
         
