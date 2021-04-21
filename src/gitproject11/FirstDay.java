@@ -27,7 +27,7 @@ public class FirstDay {
         System.out.println("4 day and 12:15");
         System.out.println("4 day and 12:25");
         System.out.println("4 day and 12:30");
-
+           System.out.println("4 day and 12:40");
         
 
 
