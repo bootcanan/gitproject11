@@ -24,6 +24,8 @@ public class FirstDay {
         System.out.println("00:41 feature brand");
         System.out.println("4 day");
         System.out.println("4 day and commit");
+       System.out.println("4 day and 12:15");
+		
 
 
         
